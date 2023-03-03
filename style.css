@@ -1,0 +1,115 @@
+/* body{
+    text-align: center;
+} */
+
+#profile{
+    text-align: center;
+    padding: 10% 5%;
+}
+
+.info{
+    margin: 50px 50px 10px 50px;
+}
+
+.info img{
+    width: 15%;
+    border-radius: 15%;
+
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+}
+
+.info-box{
+    background-color: gray;
+    border-radius: 25%;
+    margin: 10px;
+    width: 5%;
+    height:40px;
+    text-align: center;
+}
+
+.info-box p{
+    width: 50%;
+    height: 10px;
+    padding: 2px 0 0 12.5px;
+    font-size: 12px;
+    text-align: center;
+}
+
+span{
+    color: black;
+    font-weight: 500;
+}
+
+
+
+/* img{
+    width: 10%;
+} */
+
+/* #gallery {
+display: grid;
+grid-template-columns: 1fr;
+padding: 7% 15%;
+}
+
+#gallery div img{
+    width: 100%;
+    border-radius: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.v{
+
+    display: grid;
+grid-template-columns: 1fr 1fr;
+}
+
+.w{
+    width: 655%;
+    margin-left: 80px;
+}
+
+.x{
+    margin-left: -170px;
+} */
+
+/* #gallery{
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 0;
+width: 50%;
+} */
+#gallery{
+    text-align: center;
+    margin-left: 280px;
+}
+
+.img img
+{
+    width: 100%;
+    border-radius: 5%;
+}
+
+.row{
+    width: 79%;
+    text-align: center;
+}
+
+ .m1{
+    margin-bottom: 30px;
+} 
+
+.m3{
+    margin-top: -220px;
+    width: 100%;
+
+}
+
+.m4{
+    margin-top: -450px;
+}
